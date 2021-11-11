@@ -6,7 +6,7 @@
   <img alt="Renan" height="auto" width="30%" src= "https://github.com/renanberton/renanberton/blob/main/icones.png">
 </div>
 
-<div style="display:block">
+<div style="display:inline-block">
   
   [![icon-linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-alexandre-berton-565620142/)
 
