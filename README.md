@@ -1,8 +1,26 @@
 <div align= "center">
 
   # Renan Alexandre Berton
-  ### Desenvolvedor Full Stack | Javascript | React JS | Java | Spring | Bancos de dados | CSS | SASS | Tailwind | Bootstrap | UX/UI
-  
+  ## Desenvolvedor Full Stack | Javascript | React JS | Java | Spring | Bancos de dados | CSS | SASS | Tailwind | Bootstrap | UX/UI
+
+  Formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista.
+
+  Trabalho com desenvolvimento Front-End com as tecnologias: HTML5, CSS3, SASS, Javascript, ReactJS, Wordpress, Tailwindcss e Bootstrap.
+
+  Sei modelar Bancos de Dados Relacionais com MySQL, Oracle e Postgree com performance e escalabilidade do banco.
+
+  Estou desenvolvendo habilidades de Back-End usando: PHP e Laravel, Java e Spring MVC, criação de API's com STRAPI e testes de API com o Postman.
+
+  Também atuo no Design UX/UI com as ferramentas Adobe XD/Figma, Photoshop/GIMP, para criação de Wireframes/protótipos aplicando conhecimentos avançados sobre Tipografias e uso adequado das cores, para entrega de uma página com usabilidade e interatividade com o usuário.
+
+  Possuo familiaridade com a metodologia ágil Scrum, Kan-ban e versionamento de código com GIT, GitHub e GitLab.
+
+  Nas horas vagas gosto de jogar, ler, estudar, praticar esportes e ouvir músicas.
+
+  "O Espírito nobre engrandece o menor dos homens."
+
+GitHub: https://github.com/renanberton
+E-mail: renan_berton@yahoo.com.br
   <img alt="Renan" height="auto" width="30%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanberton&themes=dark"><br>
   <img alt="Renan" height="auto" width="30%" src= "https://github.com/renanberton/renanberton/blob/main/icones.png">
 </div>
