@@ -1,7 +1,7 @@
 <div align= "center">
 
   # Renan Alexandre Berton
-  ## Desenvolvedor Full Stack | Javascript | React JS | Java | Spring | Bancos de dados | CSS | SASS | Tailwind | Bootstrap | UX/UI
+  ### Desenvolvedor Full Stack | Javascript | React JS | Java | Spring | Bancos de dados | CSS | SASS | Tailwind | Bootstrap | UX/UI
 
   Formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista.
 
