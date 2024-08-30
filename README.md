@@ -1,7 +1,7 @@
 <div align= "center">
 
-  ### Renan Alexandre Berton
-  # Desenvolvedor Full Stack | Javascript | React JS | Java | Spring | Bancos de dados | CSS | SASS | Tailwind | Bootstrap | UX/UI
+  # Renan Alexandre Berton
+  ### Desenvolvedor Full Stack | Javascript | React JS | Java | Spring | Bancos de dados | CSS | SASS | Tailwind | Bootstrap | UX/UI
   
   <img alt="Renan" height="auto" width="30%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanberton&themes=dark"><br>
   <img alt="Renan" height="auto" width="30%" src= "https://github.com/renanberton/renanberton/blob/main/icones.png">
