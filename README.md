@@ -19,9 +19,7 @@
 
   "O Espírito nobre engrandece o menor dos homens."
 
-</div>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; width: '100%' ";>
   GitHub: https://github.com/renanberton
   E-mail: renan_berton@yahoo.com.br
   <img alt="Renan" height="auto" width="30%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanberton&themes=dark"><br>
