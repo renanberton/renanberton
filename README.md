@@ -3,7 +3,7 @@
 # 👨‍💻 Renan Alexandre Berton  
 ### Desenvolvedor Full Stack • React | Java | Spring | Laravel | SQL
 
-Sou Desenvolvedor Full Stack com experiência em React, Java/Spring MVC, PHP/Laravel e desenvolvimento de aplicações corporativas.  
+Sou Desenvolvedor Full Stack com experiência em React, Java/Spring MVC entre outras tecnologias usadas no desenvolvimento de aplicações corporativas.  
 Atuo na construção de interfaces modernas, criação e consumo de APIs, integração com bancos de dados e manutenção de sistemas robustos e legados.
 
 Busco sempre entregar soluções eficientes, com foco em performance, usabilidade e código limpo.
@@ -16,7 +16,7 @@ Busco sempre entregar soluções eficientes, com foco em performance, usabilidad
 React • Javascript (ES6+) • HTML5 • CSS3 • TailwindCSS • Bootstrap • UX/UI básico • Figma
 
 #### **Back-end**
-Java • Spring MVC • PHP • Laravel • Node básico • APIs REST
+Java • Spring MVC • PHP • Python • Node básico • APIs REST
 
 #### **Banco de Dados**
 Oracle • PostgreSQL • MySQL
@@ -31,7 +31,9 @@ Git/GitHub • GitLab • SVN • Postman • Jira • Scrum/Kanban
 - Experiência em sistemas corporativos, ambientes governamentais e empresas de tecnologia  
 - Familiaridade com manutenção e modernização de sistemas legados  
 - Curto estudar, treinar, jogar e aprender coisas novas sempre  
-- "O espírito nobre engrandece o menor dos homens."
+
+ 
+ "O espírito nobre engrandece o menor dos homens."
 
 ---
 
