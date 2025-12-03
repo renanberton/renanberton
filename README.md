@@ -35,15 +35,6 @@ Git/GitHub • GitLab • SVN • Postman • Jira • Scrum/Kanban
  
  "O espírito nobre engrandece o menor dos homens."
 
-<div align="center">
-
-## 📊 Minhas estatísticas
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanberton&show_icons=true&theme=github_dark&hide=issues" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanberton&layout=compact&theme=github_dark" />
-
-</div>
 
 ## 🌐 Contato
 
