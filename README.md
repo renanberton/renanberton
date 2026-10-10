@@ -1,40 +1,38 @@
 <div align="center">
 
-# 👨‍💻 Renan Alexandre Berton  
-### Desenvolvedor Full Stack • React | Java | Spring | Laravel | SQL
+# 👨‍💻 Renan Alexandre Berton
+### Desenvolvedor Full Stack | React.js · TypeScript · Java · Spring Boot | APIs REST · Docker · SQL
 
-Sou Desenvolvedor Full Stack com experiência em React, Java/Spring MVC entre outras tecnologias usadas no desenvolvimento de aplicações corporativas.  
-Atuo na construção de interfaces modernas, criação e consumo de APIs, integração com bancos de dados e manutenção de sistemas robustos e legados.
+Desenvolvedor Full Stack com foco em **React.js, TypeScript, Java e Spring Boot**.  
+Atuo no front-end, construindo interfaces modernas, componentizadas e responsivas, e no back-end, desenvolvendo APIs REST robustas e mantendo sistemas críticos em ambientes corporativos e governamentais.
 
-Busco sempre entregar soluções eficientes, com foco em performance, usabilidade e código limpo.
+💼 Atualmente na **nstech**, evoluindo um ERP corporativo (módulos fiscais e financeiros) com Java e Oracle PL/SQL, incluindo as adequações à Reforma Tributária (CBS/IBS).
 
 ---
 
-### 🚀 Tecnologias que trabalho no dia a dia
+### 🚀 Tecnologias
 
 #### **Front-end**
-React • Javascript (ES6+) • HTML5 • CSS3 • TailwindCSS • Bootstrap • UX/UI básico • Figma
+React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • SCSS • Material UI • TailwindCSS • Bootstrap • Figma
 
 #### **Back-end**
-Java • Spring MVC • PHP • Python • Node básico • APIs REST
+Java • Spring Boot • APIs REST • JUnit • PHP • Python
 
 #### **Banco de Dados**
-Oracle • PostgreSQL • MySQL
+Oracle (SQL / PL/SQL) • PostgreSQL • MySQL
 
-#### **Ferramentas**
-Git/GitHub • GitLab • SVN • Postman • Jira • Scrum/Kanban
+#### **DevOps & Ferramentas**
+Docker • Linux • Git/GitHub • SVN • Azure DevOps • Postman • Jira • Scrum/Kanban
 
 ---
 
 ## 📌 Sobre mim
-- Formado em Análise e Desenvolvimento de Sistemas – UNIP  
-- Experiência em sistemas corporativos, ambientes governamentais e empresas de tecnologia  
-- Familiaridade com manutenção e modernização de sistemas legados  
-- Curto estudar, treinar, jogar e aprender coisas novas sempre  
+- Graduado em Análise e Desenvolvimento de Sistemas pela UNIP
+- Experiência em sistemas corporativos, ambientes governamentais e agências digitais
+- Manutenção e modernização de sistemas legados de grande porte
+- Curto estudar, treinar, jogar e aprender coisas novas sempre
 
- 
- "O espírito nobre engrandece o menor dos homens."
-
+> "O espírito nobre engrandece o menor dos homens."
 
 ## 🌐 Contato
 
